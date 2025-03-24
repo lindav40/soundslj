@@ -1,0 +1,50 @@
+:root{
+	--f7-theme-color:#000;
+	--f7-navbar-bg-color: #fff; /*navbar*/
+	--f7-navbar-link-color: #000; /*navbar link*/
+	--f7-navbar-text-color:#000;
+	--f7-bars-bg-color:#fff;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+}
+
+.img-fluid{
+	max-width: 100%;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+	margin: 5px 0;
+}
+
+.page-content{
+	background-image: url(../img/10861.jpg)
+}
+
+.title{
+	text-align: center;
+		font-family: "Boldonse", system-ui;
+		font-weight: 400;
+		font-style: normal;
+	  
+}
+
+.centro{text-align: center;
+	font-family: "Boldonse", system-ui;
+		font-weight: 400;
+		font-style: normal;
+		color:white;
+		size: 80% ;
+}
+
+.categorias{
+	font-family: "Boldonse", system-ui;
+		font-weight: 400;
+		font-style: normal;
+		color:white;
+
+	}
+
+	.card{
+		text-align: center;
+	}
